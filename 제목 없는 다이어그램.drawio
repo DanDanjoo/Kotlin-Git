@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-25T06:35:48.044Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="SlSJ4Uff0C-uSilF8Qc7" version="24.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-25T08:55:13.103Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="c0oNnyAcPQHV7m2ya6t0" version="24.3.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1674" dy="1953" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="980" dy="1954" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -30,10 +30,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qd3GRjW1oIhmHpay5RaV-9" value="&lt;div&gt;&lt;span style=&quot;font-size: medium; background-color: initial;&quot;&gt;반복문이 어떻게 작동하는지?&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: medium; background-color: initial;&quot;&gt;어떻게 구현했는지&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;종료하시겠습니까?&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;for? while(true)&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;break&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#182E3E;strokeColor=#FFFFFF;align=center;labelBackgroundColor=none;fontColor=#FFFFFF;fontFamily=Comic Sans MS;verticalAlign=top;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="70" y="270" width="240" height="100" as="geometry" />
+          <mxGeometry x="70" y="270" width="240" height="110" as="geometry" />
         </mxCell>
         <mxCell id="qd3GRjW1oIhmHpay5RaV-10" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;open fun equals(other: Any?): Boolean&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;객체의 내용을 비교하는 함수&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#182E3E;strokeColor=#FFFFFF;align=center;labelBackgroundColor=none;fontColor=#FFFFFF;fontFamily=Comic Sans MS;verticalAlign=top;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="70" y="420" width="240" height="100" as="geometry" />
+          <mxGeometry x="70" y="420" width="240" height="110" as="geometry" />
         </mxCell>
         <mxCell id="qd3GRjW1oIhmHpay5RaV-12" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;strokeColor=#23445D;fontFamily=Comic Sans MS;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qd3GRjW1oIhmHpay5RaV-10" target="qd3GRjW1oIhmHpay5RaV-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -47,11 +47,11 @@
         <mxCell id="I7dTVVT0m7KKIBodXtAH-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;수식&lt;/font&gt;&lt;div&gt;어떤 수식?&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#182E3E;strokeColor=#FFFFFF;align=center;labelBackgroundColor=none;fontColor=#FFFFFF;fontFamily=Comic Sans MS;verticalAlign=top;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="350" y="540" width="240" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="I7dTVVT0m7KKIBodXtAH-2" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;연&lt;/font&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;산&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;4가지 외 다른 연산자?&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;내 계산기는 ~ 작동합니다.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;*테스트 케이스 적용&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#182E3E;strokeColor=#FFFFFF;align=center;labelBackgroundColor=none;fontColor=#FFFFFF;fontFamily=Comic Sans MS;verticalAlign=top;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="I7dTVVT0m7KKIBodXtAH-2" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;연&lt;/font&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;산&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;*테스트 케이스 적용&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#182E3E;strokeColor=#FFFFFF;align=center;labelBackgroundColor=none;fontColor=#FFFFFF;fontFamily=Comic Sans MS;verticalAlign=top;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="890" y="450" width="240" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="I7dTVVT0m7KKIBodXtAH-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;예외 처리&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;어떤 예외처리?&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#182E3E;strokeColor=#FFFFFF;align=center;labelBackgroundColor=none;fontColor=#FFFFFF;fontFamily=Comic Sans MS;verticalAlign=top;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="890" y="340" width="240" height="100" as="geometry" />
+        <mxCell id="I7dTVVT0m7KKIBodXtAH-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;예외 처리&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;값을 0으로 나눌 때?&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;ex)5 / 0&lt;/font&gt;&lt;/div&gt;&lt;div&gt;숫자가 아닐 시?&lt;/div&gt;&lt;div&gt;ex)abc + 5&lt;/div&gt;&lt;div&gt;&lt;div&gt;+, -, *, /&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;외 다른 연산자를 사용할 시?&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ex)33 % 22&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#182E3E;strokeColor=#FFFFFF;align=center;labelBackgroundColor=none;fontColor=#FFFFFF;fontFamily=Comic Sans MS;verticalAlign=top;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="890" y="290" width="240" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
